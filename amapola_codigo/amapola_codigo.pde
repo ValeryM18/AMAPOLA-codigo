@@ -3,7 +3,7 @@
 // https://pin.it/5HWNm2fki
 
 size(700, 700);
-background(237, 235, 235);
+background(0);
 
 //transladar grupo de coordenadas
 translate(350, 350);
